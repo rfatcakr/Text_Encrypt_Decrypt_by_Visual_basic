@@ -1,0 +1,1 @@
+ Using Visual basic and simple functions. There will be a text encrytion and decryption.
